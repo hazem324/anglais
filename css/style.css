@@ -563,6 +563,43 @@ a:focus {
   margin-top: 2.5px;
 }
 
+
+
+
+/* contact */
+
+.container_contact{
+  align-items: center;
+  text-align: center;
+  margin: 10px;
+}
+
+.nav-icons {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+    gap: 16px; 
+  font-size: 1.5rem; 
+}
+
+.fab {
+  color: #BD7B23;
+  transition: color 0.3s;
+}
+
+
+.fab:hover {
+  color: #99661D;
+}
+
+
+.contact_span{
+  color:#BD7B23 ;
+  text-decoration: solid;
+  font-size: 18px;
+  font-weight: 500;
+}
+
 /* footer section*/
 .footer_section {
   background-color: #252525;
